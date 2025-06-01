@@ -3,5 +3,5 @@ Plataforma de gerenciamento de portfólios digitais com integração ao Google W
 
 ## Estrutura
 - `/docs`: Documentação do projeto
-- `/src`: Código fonte HTML, CSS e JS
+- `/src`: Código fonte HTML, PY e JS
 - `/img`: Imagens e capturas
