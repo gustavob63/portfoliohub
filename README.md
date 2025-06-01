@@ -7,7 +7,7 @@ Plataforma de gerenciamento de portfólios digitais com integração ao Google W
 - `/img`: Imagens e capturas
 
 ## Tecnologias Utilizadas
-- Google Workspace (Drive, Docs, Calendar, Forms)
+- Google Workspace (Drive, Docs, Calendar)
 - Google Gemini (IA de suporte)
 - Git e GitHub
 - HTML/PY/JS
